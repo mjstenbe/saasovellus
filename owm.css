@@ -1,0 +1,22 @@
+div#container {
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  padding: 10px;
+  -webkit-box-shadow: 9px 10px 20px 1px rgba(0, 0, 0, 0.54);
+  -moz-box-shadow: 9px 10px 20px 1px rgba(0, 0, 0, 0.54);
+  box-shadow: 9px 10px 20px 1px rgba(0, 0, 0, 0.54);
+  width: 80%;
+}
+
+#valikko {
+  margin-top: 20px;
+}
+
+div {
+  padding-top: 5px;
+  text-align: center;
+  font-family: fantasy;
+  color: #cccccc;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
